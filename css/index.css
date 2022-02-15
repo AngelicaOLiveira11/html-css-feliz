@@ -44,3 +44,10 @@
                 transform: scale(1.08);
                 opacity: 0.5;
             }
+            
+            h1 {
+                font-family: 'Press Start 2P', cursive;
+                font-size: 40px;
+                color: #EED7C5;
+                text-shadow: 4px 4px 0 #020122;
+            }
