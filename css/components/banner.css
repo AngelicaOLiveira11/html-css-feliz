@@ -1,0 +1,25 @@
+.banner {
+    background-image: url(../../assets/img/foto\ 88.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    border-bottom: 10px solid #000;
+    padding-top: 115px;
+    padding-left: 90px;
+    background-size: 100%;
+    box-sizing: border-box;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+}
+
+.banner .box {
+    margin-bottom: 40px;
+}
+
+.banner .navegation {
+    display: flex;
+    justify-content: space-around;
+}
