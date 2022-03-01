@@ -1,0 +1,73 @@
+.list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 350px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+}
+
+.list .html {
+    display: flex;
+    width: 20px;
+    height: 50px;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.list .html .barra {
+    align-self: stretch;
+    position: relative;
+    padding: 05px;
+    padding-bottom: 20px;
+}
+
+.list .html .progress-bar {
+    align-self: center;
+    position: relative;
+    height: 20px;
+    width: 241px;
+    border: 3px solid #000;
+}
+
+.list .html .progress-bar-div {
+    padding-top: 15px;
+}
+
+::-webkit-progress-bar {
+    background-color: rgb(128, 0, 32);
+    background: powderblue;
+    -webkit-appearance: none;
+}
+
+.list .css {
+    display: flex;
+    width: 20px;
+    height: 50px;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.list .css .barra {
+    align-self: stretch;
+    position: relative;
+    padding: 05px;
+    padding-bottom: 20px;
+}
+
+.list .css .progress-bar {
+    align-self: center;
+    position: relative;
+    height: 20px;
+    width: 241px;
+    border: 3px solid #000;
+}
+
+.list .css .progress-bar-div {
+    padding-top: 15px;
+}
+
+::-webkit-progress-bar {
+    background-color: rgb(128, 0, 32);
+    background: powderblue;
+    -webkit-appearance: none;
+}

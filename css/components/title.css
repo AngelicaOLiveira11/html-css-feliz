@@ -4,3 +4,11 @@
     color: #890620;
     text-shadow: 4px 4px 0 #020122;
 }
+
+.title.-second {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    color: #890620;
+    text-shadow: none;
+    text-align: center;
+}
